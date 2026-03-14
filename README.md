@@ -93,7 +93,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 - **Office Supplies generates stable revenue and consistent margins**, although margins in **Central (~5%) are noticeably lower than in other regions**.
 - **Furniture shows weak profitability overall**, with **Central experiencing negative margins (~-1.7%)**, indicating potential pricing or cost issues.
 
-### Return Performance
+### Identifying High return rates among regions
 
 ![](images/return_analysis.png)
 
