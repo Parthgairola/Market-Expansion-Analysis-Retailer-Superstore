@@ -1,6 +1,7 @@
 # Market Expansion  Analysis — Retail Superstore
 
-**Analytics Requirement Document (ARD):** Defines the business problem, stakeholder questions, and initial analysis guiding this project.  
+**Analytics Requirement Document (ARD):**
+Defines the business problem, stakeholder questions, and initial analysis guiding this project.  
 [View ARD]([https://docs.google.com/spreadsheets/d/1PDW0-wBs-FDuXeIbUjCwdjpPBzmyh_QR-bLaqgpOAmE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PDW0-wBs-FDuXeIbUjCwdjpPBzmyh_QR-bLaqgpOAmE/edit?usp=sharing))
 
 # Project Background
