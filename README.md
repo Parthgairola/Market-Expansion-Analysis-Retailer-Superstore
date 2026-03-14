@@ -1,5 +1,8 @@
 # Market Expansion  Analysis — Retail Superstore
 
+**Analytics Requirement Document (ARD):** Defines the business problem, stakeholder questions, and initial analysis guiding this project.  
+[View ARD]([https://docs.google.com/spreadsheets/d/1PDW0-wBs-FDuXeIbUjCwdjpPBzmyh_QR-bLaqgpOAmE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PDW0-wBs-FDuXeIbUjCwdjpPBzmyh_QR-bLaqgpOAmE/edit?usp=sharing))
+
 # Project Background
 
 Nexus Retail is a fictional retail superstore operating across the **United States and Canada**, selling products across multiple **regions and categories including Technology, Office Supplies, and Furniture**.
@@ -12,13 +15,6 @@ This analysis answers the following key business questions:
 - **Profitability Analysis:** Are there regions generating revenue but failing to generate profit?
 - **Discount Strategy Analysis:** Are we relying too heavily on discounts to drive sales?
 - **Category Performance Analysis:** Which product categories should be prioritized in the selected region?
-
-
-The **Analytics Requirement Document** and initial exploratory analysis notes can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/ARD%20and%20Analysis.xlsx)
-
-The **SQL scripts**covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql)
-
-
 
 
 # Dataset & Initial Checks
